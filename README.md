@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 I'm currently:
 - 🚀 Learning web development and exploring new technologies
 - 🛠️ Experimenting with small projects to sharpen my skills
@@ -12,4 +10,4 @@ I'm currently:
 📫 How to reach me: daffafariq@yahoo.com
 🎉 Fun fact: I love football and tennis!  !
 
--->
+
