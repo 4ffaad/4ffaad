@@ -1,60 +1,43 @@
 <div align="center">
 
-# Hi there, I'm Daffa 👋
+# Hey, I'm Daffa 👋
 
-### Aspiring Software Engineer · Web Development · AI · Data
+I like building useful things with code — especially web apps, AI tools, and data-driven projects.
 
-[![Profile views](https://komarev.com/ghpvc/?username=4ffaad&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/4ffaad)
+[![Profile views](https://komarev.com/ghpvc/?username=4ffaad&label=profile%20views&color=8b5cf6&style=flat-square)](https://github.com/4ffaad)
 
 </div>
 
-## When I code, I rely on
+## What I use
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff)
-
-I build practical web applications, AI-powered tools, and data-driven products. I’m currently strengthening my backend, API, database, and machine-learning skills while building projects across the stack.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)
 
 ## Selected work
 
-| Project | What it is |
-| --- | --- |
-| [Agentic Invoice Intelligence](https://github.com/4ffaad/agentic_invoice_intelligence) | AI-powered invoice and payment workflow automation for SaaS businesses |
-| [Dashboard with Invoices](https://github.com/4ffaad/v0-dashboard-with-invoices) | Invoice dashboard prototype generated with v0 and deployed on Vercel |
-| [AI Interview App](https://github.com/4ffaad/ai-interview-app) | Next.js application exploring AI-assisted interview experiences |
-| [Automated Finance](https://github.com/4ffaad/automated_finance) | Project exploring automation for finance workflows |
+### [FYP — MDS01](https://github.com/4ffaad/FYP-MDS01)
 
-## What I'm learning
+A privacy-aware research prototype for EEG and video analysis. It combines a unified analysis workspace with face redaction, protected outputs, model workflows, and visual evidence review.
 
-- Backend development with Node.js, APIs, and databases
-- AI automation and machine-learning workflows
-- Scalable software engineering and clean system design
-- Android development with Kotlin
+### [Agentic Invoice Intelligence](https://github.com/4ffaad/agentic_invoice_intelligence)
 
-## GitHub activity
+An AI-powered billing and payment workflow project for SaaS businesses, built for the AWS AI Hackathon 2025.
 
-<div align="center">
+## Currently learning
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ffaad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+- Backend development, APIs, and databases
+- AI automation and machine learning
+- Building software that is useful, clear, and easy to maintain
 
-![GitHub streak](https://streak-stats.demolab.com?user=4ffaad&hide_border=true&theme=transparent)
+## A little more about me
 
-</div>
-
-## Let's connect
-
+- Open to learning, collaboration, and interesting project ideas
 - [LinkedIn](https://www.linkedin.com/in/daffa-fariq-prasetyo-29496a275/)
-- Email: [daffafariq@gmail.com](mailto:daffafariq@gmail.com)
-
-Open to learning, collaboration, and conversations about software, AI, and open source.
-
----
+- [Email](mailto:daffafariq@gmail.com)
 
 ⚽ Football fan · 🏋️ Gym enthusiast
