@@ -1,27 +1,35 @@
-# **Hi there! 👋**  
+# Hi, I'm Daffa 👋
 
-I'm **Daffa**, an aspiring **software engineer** passionate about **web development, data science, and machine learning**. I love building things, solving problems, and constantly learning new technologies.  
+I'm an aspiring software engineer focused on building practical web applications, AI-powered tools, and data-driven products.
 
-### 🚀 **What I'm Currently Doing:**  
-- 🖥️ Learning **backend development** (Node.js, Express, databases)  
-- 📱 Exploring **mobile app development** with **Kotlin**  
-- 🤖 Diving into **machine learning & data science**  
-- 🛠️ Building small projects to apply my knowledge  
-- 🤝 Open to **collaborations** on beginner-friendly and open-source projects  
+I enjoy turning ideas into usable software, learning across the stack, and improving projects through clean design and maintainable code.
 
-### 💡 **Skills & Interests:**  
-- 💻 **Languages & Technologies:**  
-  - **Web Development:** HTML, CSS, JavaScript  
-  - **Backend:** Node.js, Express, SQL & NoSQL databases  
-  - **Machine Learning & Data Science:** Python, Pandas, NumPy, Scikit-learn  
-  - **Mobile Development:** Kotlin (Android)  
-- 🎯 Interested in **full-stack development, AI, and scalable software engineering**  
-- 🎨 Passionate about **UI/UX design** and clean, maintainable code  
+## What I'm working on
 
-### 📬 **Let's Connect!**  
-📧 Email: daffafariq@gmail.com  
-🔗 LinkedIn: [Daffa Fariq Prasetyo](https://www.linkedin.com/in/daffa-fariq-prasetyo-29496a275/)  
-💬 Open to discussions on **tech, open-source, and project ideas**  
+- Building web applications with JavaScript and TypeScript
+- Exploring backend development, APIs, and data systems
+- Experimenting with AI automation and machine-learning workflows
+- Learning Android development with Kotlin
+- Growing a portfolio of small, focused projects
 
-### 🎉 **Fun Fact:**  
-⚽ I’m a huge **football** fan and love hitting the **gym**!  
+## Selected projects
+
+- [Agentic Invoice Intelligence](https://github.com/hashmatz/Agent-for-Kaggriculture-Competition) — an AI-assisted invoice and payment workflow project built for the AWS AI Hackathon 2025
+- [Dashboard with Invoices](https://github.com/4ffaad/v0-dashboard-with-invoices) — a deployed invoice dashboard prototype built with v0 and Vercel
+- [AI Interview App](https://github.com/4ffaad/ai-interview-app) — a Next.js application for experimenting with AI-assisted interview experiences
+- [Automated Finance](https://github.com/4ffaad/automated_finance) — a finance automation project
+
+## Tools and technologies
+
+`JavaScript` · `TypeScript` · `Python` · `Java` · `HTML` · `CSS` · `SQL` · `NoSQL` · `Node.js` · `Next.js` · `AWS` · `Kotlin`
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/daffa-fariq-prasetyo-29496a275/)
+- Email: `daffafariq@gmail.com`
+
+Open to learning, collaboration, and conversations about software, AI, and open source.
+
+---
+
+⚽ Football fan · 🏋️ Gym enthusiast
