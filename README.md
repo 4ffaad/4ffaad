@@ -14,7 +14,7 @@ I enjoy turning ideas into usable software, learning across the stack, and impro
 
 ## Selected projects
 
-- [Agentic Invoice Intelligence](https://github.com/hashmatz/Agent-for-Kaggriculture-Competition) — an AI-assisted invoice and payment workflow project built for the AWS AI Hackathon 2025
+- [Agentic Invoice Intelligence](https://github.com/4ffaad/agentic_invoice_intelligence) — an AI-assisted invoice and payment workflow project built for the AWS AI Hackathon 2025
 - [Dashboard with Invoices](https://github.com/4ffaad/v0-dashboard-with-invoices) — a deployed invoice dashboard prototype built with v0 and Vercel
 - [AI Interview App](https://github.com/4ffaad/ai-interview-app) — a Next.js application for experimenting with AI-assisted interview experiences
 - [Automated Finance](https://github.com/4ffaad/automated_finance) — a finance automation project
