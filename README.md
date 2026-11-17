@@ -20,7 +20,7 @@ I like building useful things with code — especially web apps, AI tools, and d
 
 ## Selected work
 
-### [FYP — MDS01](https://github.com/4ffaad/FYP-MDS01)
+### [EEG Viewer](https://github.com/4ffaad/eeg-viewer)
 
 A privacy-aware research prototype for EEG and video analysis. It combines a unified analysis workspace with face redaction, protected outputs, model workflows, and visual evidence review.
 
