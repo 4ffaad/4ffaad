@@ -1,10 +1,6 @@
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Daffa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Monash%20Malaysia&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+web+apps+%26+AI+tools+%F0%9F%A4%96;Data-driven+products+%F0%9F%93%8A;Explainable+AI+for+EEG+%F0%9F%A7%A0;Always+shipping+something+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ---
 
